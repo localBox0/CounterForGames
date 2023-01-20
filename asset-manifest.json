@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CounterForGames/static/css/main.ceabc704.css",
+    "main.js": "/CounterForGames/static/js/main.e4b38acb.js",
+    "static/js/787.28cb0dcd.chunk.js": "/CounterForGames/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/CounterForGames/index.html",
+    "main.ceabc704.css.map": "/CounterForGames/static/css/main.ceabc704.css.map",
+    "main.e4b38acb.js.map": "/CounterForGames/static/js/main.e4b38acb.js.map",
+    "787.28cb0dcd.chunk.js.map": "/CounterForGames/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceabc704.css",
+    "static/js/main.e4b38acb.js"
+  ]
+}
